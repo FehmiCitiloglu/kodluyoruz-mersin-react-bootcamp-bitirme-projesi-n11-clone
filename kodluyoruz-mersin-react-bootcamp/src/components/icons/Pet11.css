@@ -1,0 +1,16 @@
+.a,
+.b {
+  fill: #f5333f;
+}
+
+.a {
+  fill-rule: evenodd;
+}
+
+.c {
+  fill: #231f20;
+}
+
+.d {
+  fill: #1c1c1a;
+}
